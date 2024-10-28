@@ -1,0 +1,17 @@
+body {
+    font-family: cursive;
+}
+
+.photo-gallery {
+    gap: 15px;
+    padding: 20px;
+}
+
+.photo {
+    border: 5px solid #8B4513;
+    padding: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    width: 400px;
+    height: auto;
+}
